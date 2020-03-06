@@ -1,14 +1,39 @@
 body{
     padding: 02px;
-    margin: 02px;
+    margin: 0px;
 }
 .background{
     background-image: url(images/image.jpg);
-    height: 480px;
-    width: 680;
     background-size: cover;
+    height: 500px;
     position: center;
 }
 h1{
-    position: center;
+    color: grey;
+    font-size:xx-large;
+    box-shadow: goldenrod;
+    padding-left: 7px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: goldenrod;
+    border-color: indigo;
+    box-shadow: ivory;
+    box-sizing: border-box;
+}
+p{   color: grey;
+    font-size:40px;
+    text-align: center;
+    box-shadow: goldenrod;
+    padding-left: 7px;
+
+}
+img{
+    position: left;
+    height: 550px;
+    width: 450px;
+    padding: 70px;
+    border-radius: 50%;
+    
 }

@@ -1,0 +1,14 @@
+body{
+    padding: 02px;
+    margin: 02px;
+}
+.background{
+    background-image: url(images/image.jpg);
+    height: 480px;
+    width: 680;
+    background-size: cover;
+    position: center;
+}
+h1{
+    position: center;
+}
